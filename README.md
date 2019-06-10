@@ -3,7 +3,7 @@ Basic-Portfolio
 
 This is a basic portfolio page using only HTML and CSS
 
-### <a name="portfolio"></a> Portfolio Page
+### <a name="portfolio"></a> Home Page
 *Home Page View*
 ![](assets/images/home.png)
 
@@ -11,6 +11,6 @@ This is a basic portfolio page using only HTML and CSS
 *Portfolio Page View*
 ![](assets/images/portfolio.png)
 
-### <a name="portfolio"></a> Portfolio Page
+### <a name="portfolio"></a> Contact Page
 *contact Page View*
 ![](assets/images/contact.png)
