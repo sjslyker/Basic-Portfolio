@@ -12,5 +12,5 @@ This is a basic portfolio page using only HTML and CSS
 ![](assets/images/portfolio.png)
 
 ### <a name="portfolio"></a> Contact Page
-*contact Page View*
+*Contact Page View*
 ![](assets/images/contact.png)
